@@ -6,6 +6,10 @@
 
 using namespace std;
 
+// 希尔排序
+//https://blog.csdn.net/qq_39207948/article/details/80006224
+// 希尔排序的基本思路是，利用基本有序和规模较小时，插入排序算法效率高，将大规模数据集先进行分解，排序
+
 
 template<typename T>
 void shellSort(T arr[], int n){
