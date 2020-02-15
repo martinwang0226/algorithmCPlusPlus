@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/wangchenlong/Documents/mooc/基础部分/algorithm/coding-71/02-Sorting-Basic/Course Code (C++)/01-Selection-Sort/main.cpp" "/Users/wangchenlong/Documents/mooc/基础部分/algorithm/coding-71/02-Sorting-Basic/Course Code (C++)/01-Selection-Sort/cmake-build-debug/CMakeFiles/SelectionSort.dir/main.cpp.o"
+  "/Users/wangchenlong/Documents/GithubMartinWang/algorithmMartin/algorithmCPlusPlus/02-Sorting-Basic)/01-Selection-Sort/main.cpp" "/Users/wangchenlong/Documents/GithubMartinWang/algorithmMartin/algorithmCPlusPlus/02-Sorting-Basic)/01-Selection-Sort/cmake-build-debug/CMakeFiles/SelectionSort.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

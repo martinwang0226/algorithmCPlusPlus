@@ -43,10 +43,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/Users/wangchenlong/Documents/mooc/基础部分/algorithm/coding-71/02-Sorting-Basic/Course Code (C++)/02-Selection-Sort-Using-Template"
+CMAKE_SOURCE_DIR = "/Users/wangchenlong/Documents/GithubMartinWang/algorithmMartin/algorithmCPlusPlus/02-Sorting-Basic)/02-Selection-Sort-Using-Template"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/Users/wangchenlong/Documents/mooc/基础部分/algorithm/coding-71/02-Sorting-Basic/Course Code (C++)/02-Selection-Sort-Using-Template/cmake-build-debug"
+CMAKE_BINARY_DIR = "/Users/wangchenlong/Documents/GithubMartinWang/algorithmMartin/algorithmCPlusPlus/02-Sorting-Basic)/02-Selection-Sort-Using-Template/cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/02_Selection_Sort_Using_Template.dir/depend.make
@@ -59,16 +59,16 @@ include CMakeFiles/02_Selection_Sort_Using_Template.dir/flags.make
 
 CMakeFiles/02_Selection_Sort_Using_Template.dir/main.cpp.o: CMakeFiles/02_Selection_Sort_Using_Template.dir/flags.make
 CMakeFiles/02_Selection_Sort_Using_Template.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/wangchenlong/Documents/mooc/基础部分/algorithm/coding-71/02-Sorting-Basic/Course Code (C++)/02-Selection-Sort-Using-Template/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/02_Selection_Sort_Using_Template.dir/main.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/02_Selection_Sort_Using_Template.dir/main.cpp.o -c "/Users/wangchenlong/Documents/mooc/基础部分/algorithm/coding-71/02-Sorting-Basic/Course Code (C++)/02-Selection-Sort-Using-Template/main.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/wangchenlong/Documents/GithubMartinWang/algorithmMartin/algorithmCPlusPlus/02-Sorting-Basic)/02-Selection-Sort-Using-Template/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/02_Selection_Sort_Using_Template.dir/main.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/02_Selection_Sort_Using_Template.dir/main.cpp.o -c "/Users/wangchenlong/Documents/GithubMartinWang/algorithmMartin/algorithmCPlusPlus/02-Sorting-Basic)/02-Selection-Sort-Using-Template/main.cpp"
 
 CMakeFiles/02_Selection_Sort_Using_Template.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/02_Selection_Sort_Using_Template.dir/main.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/wangchenlong/Documents/mooc/基础部分/algorithm/coding-71/02-Sorting-Basic/Course Code (C++)/02-Selection-Sort-Using-Template/main.cpp" > CMakeFiles/02_Selection_Sort_Using_Template.dir/main.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/wangchenlong/Documents/GithubMartinWang/algorithmMartin/algorithmCPlusPlus/02-Sorting-Basic)/02-Selection-Sort-Using-Template/main.cpp" > CMakeFiles/02_Selection_Sort_Using_Template.dir/main.cpp.i
 
 CMakeFiles/02_Selection_Sort_Using_Template.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/02_Selection_Sort_Using_Template.dir/main.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/wangchenlong/Documents/mooc/基础部分/algorithm/coding-71/02-Sorting-Basic/Course Code (C++)/02-Selection-Sort-Using-Template/main.cpp" -o CMakeFiles/02_Selection_Sort_Using_Template.dir/main.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/wangchenlong/Documents/GithubMartinWang/algorithmMartin/algorithmCPlusPlus/02-Sorting-Basic)/02-Selection-Sort-Using-Template/main.cpp" -o CMakeFiles/02_Selection_Sort_Using_Template.dir/main.cpp.s
 
 # Object files for target 02_Selection_Sort_Using_Template
 02_Selection_Sort_Using_Template_OBJECTS = \
@@ -80,7 +80,7 @@ CMakeFiles/02_Selection_Sort_Using_Template.dir/main.cpp.s: cmake_force
 02_Selection_Sort_Using_Template: CMakeFiles/02_Selection_Sort_Using_Template.dir/main.cpp.o
 02_Selection_Sort_Using_Template: CMakeFiles/02_Selection_Sort_Using_Template.dir/build.make
 02_Selection_Sort_Using_Template: CMakeFiles/02_Selection_Sort_Using_Template.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/Users/wangchenlong/Documents/mooc/基础部分/algorithm/coding-71/02-Sorting-Basic/Course Code (C++)/02-Selection-Sort-Using-Template/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable 02_Selection_Sort_Using_Template"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/Users/wangchenlong/Documents/GithubMartinWang/algorithmMartin/algorithmCPlusPlus/02-Sorting-Basic)/02-Selection-Sort-Using-Template/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable 02_Selection_Sort_Using_Template"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/02_Selection_Sort_Using_Template.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -93,6 +93,6 @@ CMakeFiles/02_Selection_Sort_Using_Template.dir/clean:
 .PHONY : CMakeFiles/02_Selection_Sort_Using_Template.dir/clean
 
 CMakeFiles/02_Selection_Sort_Using_Template.dir/depend:
-	cd "/Users/wangchenlong/Documents/mooc/基础部分/algorithm/coding-71/02-Sorting-Basic/Course Code (C++)/02-Selection-Sort-Using-Template/cmake-build-debug" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/Users/wangchenlong/Documents/mooc/基础部分/algorithm/coding-71/02-Sorting-Basic/Course Code (C++)/02-Selection-Sort-Using-Template" "/Users/wangchenlong/Documents/mooc/基础部分/algorithm/coding-71/02-Sorting-Basic/Course Code (C++)/02-Selection-Sort-Using-Template" "/Users/wangchenlong/Documents/mooc/基础部分/algorithm/coding-71/02-Sorting-Basic/Course Code (C++)/02-Selection-Sort-Using-Template/cmake-build-debug" "/Users/wangchenlong/Documents/mooc/基础部分/algorithm/coding-71/02-Sorting-Basic/Course Code (C++)/02-Selection-Sort-Using-Template/cmake-build-debug" "/Users/wangchenlong/Documents/mooc/基础部分/algorithm/coding-71/02-Sorting-Basic/Course Code (C++)/02-Selection-Sort-Using-Template/cmake-build-debug/CMakeFiles/02_Selection_Sort_Using_Template.dir/DependInfo.cmake" --color=$(COLOR)
+	cd "/Users/wangchenlong/Documents/GithubMartinWang/algorithmMartin/algorithmCPlusPlus/02-Sorting-Basic)/02-Selection-Sort-Using-Template/cmake-build-debug" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/Users/wangchenlong/Documents/GithubMartinWang/algorithmMartin/algorithmCPlusPlus/02-Sorting-Basic)/02-Selection-Sort-Using-Template" "/Users/wangchenlong/Documents/GithubMartinWang/algorithmMartin/algorithmCPlusPlus/02-Sorting-Basic)/02-Selection-Sort-Using-Template" "/Users/wangchenlong/Documents/GithubMartinWang/algorithmMartin/algorithmCPlusPlus/02-Sorting-Basic)/02-Selection-Sort-Using-Template/cmake-build-debug" "/Users/wangchenlong/Documents/GithubMartinWang/algorithmMartin/algorithmCPlusPlus/02-Sorting-Basic)/02-Selection-Sort-Using-Template/cmake-build-debug" "/Users/wangchenlong/Documents/GithubMartinWang/algorithmMartin/algorithmCPlusPlus/02-Sorting-Basic)/02-Selection-Sort-Using-Template/cmake-build-debug/CMakeFiles/02_Selection_Sort_Using_Template.dir/DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/02_Selection_Sort_Using_Template.dir/depend
 

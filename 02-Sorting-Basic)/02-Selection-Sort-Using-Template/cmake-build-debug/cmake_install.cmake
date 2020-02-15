@@ -1,4 +1,4 @@
-# Install script for directory: /Users/wangchenlong/Documents/mooc/基础部分/algorithm/coding-71/02-Sorting-Basic/Course Code (C++)/02-Selection-Sort-Using-Template
+# Install script for directory: /Users/wangchenlong/Documents/GithubMartinWang/algorithmMartin/algorithmCPlusPlus/02-Sorting-Basic)/02-Selection-Sort-Using-Template
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/wangchenlong/Documents/mooc/基础部分/algorithm/coding-71/02-Sorting-Basic/Course Code (C++)/02-Selection-Sort-Using-Template/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/wangchenlong/Documents/GithubMartinWang/algorithmMartin/algorithmCPlusPlus/02-Sorting-Basic)/02-Selection-Sort-Using-Template/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

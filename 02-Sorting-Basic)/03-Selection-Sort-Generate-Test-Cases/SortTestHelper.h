@@ -18,6 +18,7 @@ namespace SortTestHelper {
     // 生成有n个元素的随机数组,每个元素的随机范围为[rangeL, rangeR]
     int *generateRandomArray(int n, int rangeL, int rangeR) {
 
+        //断言
         assert(rangeL <= rangeR);
 
         int *arr = new int[n];
@@ -29,6 +30,7 @@ namespace SortTestHelper {
     }
 
     // 打印arr数组的所有内容
+    //模版类
     template<typename T>
     void printArray(T arr[], int n) {
 

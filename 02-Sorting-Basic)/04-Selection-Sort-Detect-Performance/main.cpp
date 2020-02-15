@@ -1,6 +1,8 @@
 #include <iostream>
 #include "SortTestHelper.h"
 
+//本节主要是算法的执行时间，用到了C++中的函数指针
+
 using namespace std;
 
 template<typename T>
