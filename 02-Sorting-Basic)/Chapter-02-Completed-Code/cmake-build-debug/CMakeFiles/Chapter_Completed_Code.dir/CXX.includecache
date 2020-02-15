@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wangchenlong/Documents/GithubMartinWang/algorithmMartin/algorithmCPlusPlus/02-Sorting-Basic)/Chapter-02-Completed-Code/InsertionSort.h
+
+/Users/wangchenlong/Documents/GithubMartinWang/algorithmMartin/algorithmCPlusPlus/02-Sorting-Basic)/Chapter-02-Completed-Code/SelectionSort.h
+algorithm
+-
+
+/Users/wangchenlong/Documents/GithubMartinWang/algorithmMartin/algorithmCPlusPlus/02-Sorting-Basic)/Chapter-02-Completed-Code/SortTestHelper.h
+iostream
+-
+algorithm
+-
+string
+-
+ctime
+-
+cassert
+-
+string
+-
+
+/Users/wangchenlong/Documents/GithubMartinWang/algorithmMartin/algorithmCPlusPlus/02-Sorting-Basic)/Chapter-02-Completed-Code/main.cpp
+iostream
+-
+SelectionSort.h
+/Users/wangchenlong/Documents/GithubMartinWang/algorithmMartin/algorithmCPlusPlus/02-Sorting-Basic)/Chapter-02-Completed-Code/SelectionSort.h
+InsertionSort.h
+/Users/wangchenlong/Documents/GithubMartinWang/algorithmMartin/algorithmCPlusPlus/02-Sorting-Basic)/Chapter-02-Completed-Code/InsertionSort.h
+SortTestHelper.h
+/Users/wangchenlong/Documents/GithubMartinWang/algorithmMartin/algorithmCPlusPlus/02-Sorting-Basic)/Chapter-02-Completed-Code/SortTestHelper.h
+

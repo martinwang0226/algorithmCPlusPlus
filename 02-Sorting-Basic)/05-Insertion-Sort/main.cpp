@@ -3,6 +3,11 @@
 #include "SortTestHelper.h"
 #include "SelectionSort.h"
 
+//涉及到的插入排序与选择排序的比较
+//https://blog.csdn.net/hearwindcrying/article/details/80147219
+//数列越有序，插入排序比选择排序比较的次数少，选择排序恒为N*(N-1)/2
+// 改进的插入排序
+
 using namespace std;
 
 template<typename T>

@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wangchenlong/Documents/GithubMartinWang/algorithmMartin/algorithmCPlusPlus/02-Sorting-Basic)/05-Insertion-Sort/SelectionSort.h
+iostream
+-
+algorithm
+-
+
+/Users/wangchenlong/Documents/GithubMartinWang/algorithmMartin/algorithmCPlusPlus/02-Sorting-Basic)/05-Insertion-Sort/SortTestHelper.h
+iostream
+-
+algorithm
+-
+string
+-
+ctime
+-
+cassert
+-
+
+/Users/wangchenlong/Documents/GithubMartinWang/algorithmMartin/algorithmCPlusPlus/02-Sorting-Basic)/05-Insertion-Sort/main.cpp
+iostream
+-
+algorithm
+-
+SortTestHelper.h
+/Users/wangchenlong/Documents/GithubMartinWang/algorithmMartin/algorithmCPlusPlus/02-Sorting-Basic)/05-Insertion-Sort/SortTestHelper.h
+SelectionSort.h
+/Users/wangchenlong/Documents/GithubMartinWang/algorithmMartin/algorithmCPlusPlus/02-Sorting-Basic)/05-Insertion-Sort/SelectionSort.h
+

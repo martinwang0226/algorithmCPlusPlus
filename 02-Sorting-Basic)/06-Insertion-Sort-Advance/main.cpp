@@ -4,6 +4,7 @@
 #include "SelectionSort.h"
 
 using namespace std;
+//交换操作是耗时的，把多次交换改成比较后做一次赋值操作
 
 template<typename T>
 void insertionSort(T arr[], int n){

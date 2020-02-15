@@ -3,6 +3,8 @@
 #include "InsertionSort.h"
 #include "SortTestHelper.h"
 
+//本章节主要测试无序，有序，近乎有序数组的情况下，插入和选择，以及改进插入算法的性能比较
+
 using namespace std;
 
 int main() {
